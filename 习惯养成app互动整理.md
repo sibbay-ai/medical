@@ -11,15 +11,10 @@
 
 ## happify
 
-- 新用户
-
-  <https://www.processon.com/view/link/5e69d8e8e4b00fb1da11aeeb>
-
-- 积极的力量
-
-  <https://www.processon.com/view/link/5e6cd199e4b0dab55408db13>
-
-
+- [主要](https://www.processon.com/view/link/5e69d8e8e4b00fb1da11aeeb)
+  ![image](https://user-images.githubusercontent.com/22675861/78008879-ceba4000-7372-11ea-8abb-49a80262f4d3.png)
+- [利用优势减压](https://www.processon.com/view/link/5e6cd199e4b0dab55408db13)
+- [Check-In](<https://www.processon.com/view/link/5e8d83b5f346fb354d6923fc>)
 
 ## Fasting
 
