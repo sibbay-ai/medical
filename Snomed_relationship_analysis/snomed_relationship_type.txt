@@ -1,0 +1,122 @@
+   116680003 |Is a (attribute)|
+  410662002 |Concept model attribute|
+          762706009 |Concept model data attribute|
+          762705008 |Concept model object attribute|
+                  260507000 |Access|
+                  733928003 |All or part of|
+                          774081006 |Proper part of|
+                                  733931002 |Constitutional part of|
+                                  733930001 |Regional part of|
+                                          733933004 |Lateral half of|
+                                  733932009 |Systemic part of|
+                  246090004 |Associated finding|
+                  116676008 |Associated morphology|
+                  363589002 |Associated procedure|
+                  47429007 |Associated with|
+                          246075003 |Causative agent|
+                          42752001 |Due to|
+                          726633004 |Temporally related to|
+                                  255234002 |After|
+                                  288556008 |Before|
+                                  371881003 |During|
+                  704321009 |Characterizes|
+                  263502005 |Clinical course|
+                  246093002 |Component|
+                  734136001 |Contained in|
+                  774160008 |Contains clinical drug|
+                  766953001 |Count of active ingredient|
+                  766954007 |Count of base and modification pair|
+                  766952006 |Count of base of active ingredient|
+                  704327008 |Direct site|
+                  363701004 |Direct substance|
+                  246456000 |Episodicity|
+                  408729009 |Finding context|
+                  419066007 |Finding informer|
+                  418775008 |Finding method|
+                  363698007 |Finding site|
+                  736476002 |Has basic dose form|
+                  732943007 |Has BoSS|
+                  733722007 |Has concentration strength denominator unit|
+                  733723002 |Has concentration strength denominator value|
+                  733725009 |Has concentration strength numerator unit|
+                  733724008 |Has concentration strength numerator value|
+                  363705008 |Has definitional manifestation|
+                  726542003 |Has disposition|
+                  736472000 |Has dose form administration method|
+                  736474004 |Has dose form intended site|
+                  736475003 |Has dose form release characteristic|
+                  736473005 |Has dose form transformation|
+                  363702006 |Has focus|
+                  762951001 |Has ingredient|
+                          127489000 |Has active ingredient|
+                                  762949000 |Has precise active ingredient|
+                  363703001 |Has intent|
+                  363713009 |Has interpretation|
+                  411116001 |Has manufactured dose form|
+                  774161007 |Has pack size|
+                  774163005 |Has pack size unit|
+                  732947008 |Has presentation strength denominator unit|
+                  732946004 |Has presentation strength denominator value|
+                  732945000 |Has presentation strength numerator unit|
+                  732944001 |Has presentation strength numerator value|
+                  774158006 |Has product name|
+                  719722006 |Has realization|
+                  116686009 |Has specimen|
+                  736518005 |Has state of matter|
+                  774159003 |Has supplier|
+                  763032000 |Has unit of presentation|
+                  718497002 |Inherent location|
+                  704319004 |Inheres in|
+                  363714003 |Interprets|
+                  704647008 |Is about|
+                  738774007 |Is modification of|
+                  272741003 |Laterality|
+                  370129005 |Measurement method|
+                  260686004 |Method|
+                  704347000 |Observes|
+                  246454002 |Occurrence|
+                  370135005 |Pathological process|
+                  766939001 |Plays role|
+                  704326004 |Precondition|
+                  260870009 |Priority|
+                  408730004 |Procedure context|
+                  405815000 |Procedure device|
+                          363699004 |Direct device|
+                          363710007 |Indirect device|
+                          424226004 |Using device|
+                                  425391005 |Using access device|
+                  405816004 |Procedure morphology|
+                          363700003 |Direct morphology|
+                          363709002 |Indirect morphology|
+                  363704007 |Procedure site|
+                          405813007 |Procedure site - Direct|
+                          405814001 |Procedure site - Indirect|
+                  704322002 |Process agent|
+                  704323007 |Process duration|
+                  704324001 |Process output|
+                  370130000 |Property|
+                  370131001 |Recipient category|
+                  704325000 |Relative to|
+                  719715003 |Relative to part of|
+                  246513007 |Revision status|
+                  609096000 |Role group|
+                  410675002 |Route of administration|
+                  370132008 |Scale type|
+                  246112005 |Severity|
+                  704346009 |Specified by|
+                  118171006 |Specimen procedure|
+                  118170007 |Specimen source identity|
+                  118168003 |Specimen source morphology|
+                  118169006 |Specimen source topography|
+                  370133003 |Specimen substance|
+                  131195008 |Subject of information|
+                  408732007 |Subject relationship context|
+                  424876005 |Surgical approach|
+                  246501002 |Technique|
+                  408731000 |Temporal context|
+                  370134009 |Time aspect|
+                  704320005 |Towards|
+                  734137005 |Tributary of|
+                  246514001 |Units|
+                  424244007 |Using energy|
+                  424361007 |Using substance| 
